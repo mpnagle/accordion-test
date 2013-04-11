@@ -61,8 +61,6 @@ Template.accordion.rendered = function(){
 
     function loadData(rows)
     {
-//	console.log("rows")
-//	console.log(rows);
 
 	var finalHTML = '';
 
